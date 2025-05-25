@@ -23,7 +23,7 @@
 ![Archicad Startup Interface](https://www.aecbytes.com/illustrations/sponsored/2024/Mac-Archicad-images/cover.png)  
 *Official Archicad launch and workspace environment*
 
-![3D Modeling View](https://www.harmony-at.com/sites/default/files/styles/large_3_2_768x512/public/2023-08/maxresdefault_2.jpg?itok=xVKI90ls)  
+![3D Modeling View](https://www.aecbytes.com/illustrations/sponsored/2024/Mac-Archicad-images/fig2b.png)  
 *Real-time architectural modeling in progress*
 
 ![Team Collaboration Enabled](https://alizvfdwaq.cloudimg.io/https://blog.enscape3d.com/hubfs/2023/Blog/Getting%20started%20in%20Enscape%20for%20Mac%20on%20Archicad.jpg?w=1500&h=936&optipress=2)  
